@@ -92,3 +92,4 @@ conn.commit()
 
 # cerrar el enlace a la base de datos (recomendado)
 cursor.close()
+
